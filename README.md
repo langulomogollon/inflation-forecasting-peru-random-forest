@@ -127,5 +127,4 @@ Leonardo Martín Angulo Mogollón
 
 Data Analyst | Business Intelligence | Databricks Certified
 
----
-⭐ If you found this project useful, consider giving it a star.
+
