@@ -123,12 +123,9 @@ python src/training.py
 
 ## 👨‍💻 Author
 
-**Leonardo Martín Angulo Mogollón**
+Leonardo Martín Angulo Mogollón
 
-Data Analyst | Business Intelligence | Machine Learning Enthusiast
-
-- LinkedIn: https://www.linkedin.com/in/leonardo-martín-angulo-mogollón
-- GitHub: https://github.com/langulomogollon
+Data Analyst | Business Intelligence | Databricks Certified
 
 ---
 ⭐ If you found this project useful, consider giving it a star.
