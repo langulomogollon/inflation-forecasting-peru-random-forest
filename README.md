@@ -70,9 +70,6 @@ The Random Forest model was evaluated using regression metrics such as:
 
 Results demonstrated the model's ability to capture inflation patterns from historical economic indicators.
 
-## 📷 Sample Forecast
-
-![Inflation Forecast](images/forecast_results.png)
 
 ## 🎯 Key Insights
 
