@@ -36,29 +36,6 @@ The project includes:
 7. Model Evaluation
 8. Inflation Forecast Generation
 
-## 📂 Project Structure
-
-```bash
-inflation-forecasting-peru-random-forest/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   └── inflation_forecasting.ipynb
-│
-├── images/
-│   └── forecast_results.png
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── training.py
-│   └── forecasting.py
-│
-├── requirements.txt
-└── README.md
-```
 
 ## 📈 Model Performance
 
